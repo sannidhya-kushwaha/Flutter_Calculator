@@ -1,6 +1,6 @@
 # Flutter_Calculator
+<img src="https://user-images.githubusercontent.com/73152930/99977367-8ac8ef00-2dca-11eb-9f7e-359a875f4b7b.png" width="350">
 
-![Screenshot_2020-11-23-20-21-58-65_9a782a5541eab6f580bc879c928112d0](https://user-images.githubusercontent.com/73152930/99977367-8ac8ef00-2dca-11eb-9f7e-359a875f4b7b.png)
 
 Flutter Calculator Project.
 
